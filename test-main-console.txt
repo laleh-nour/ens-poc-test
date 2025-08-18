@@ -1,0 +1,4 @@
+[dotenv@17.2.1] injecting env (3) from .env -- tip: 📡 version env with Radar: https://dotenvx.com/radar
+Recipient balance before: 3.833589552753686246
+withdraw() callStatic succeeded (no revert)
+Recipient balance after: 3.833589552753686246
