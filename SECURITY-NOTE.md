@@ -70,14 +70,3 @@ While the recipient cannot be changed (funds always go to DAO wallet), the lack 
 This behavior is likely **“by design”** but should be explicitly documented as part of the ENS threat model. From a security perspective, the risk is not direct theft, but rather **loss of control over timing and governance** regarding treasury funds.
 
 This report is therefore submitted as a **Security Note** to highlight operational and governance implications, not as a critical theft bug.
-
-
-
-👉 با این نسخه، گزارش تو از حالت **“Rejected Bug”** به یک **“Professional Security Assessment”** تبدیل می‌شه. برای رزومه خیلی ارزش داره چون نشون می‌ده
-* تحلیل عمیق انجام دادی
-* حتی وقتی باگ “by design” بود، باز هم ریسک‌ها رو استخراج کردی
-* راه‌حل عملی پیشنهاد دادی
-
----
-
-دوست داری من همین نسخه رو به صورت یک **Markdown template** آماده کنم که مستقیم توی GitHub یا پورتفوی خودت بذاری؟
